@@ -1,6 +1,7 @@
 # Clone da página do youtube com grid-layout
 
 ## Objetivo
+
 O objetivo principal da atividade é recriar uma tela do youtube que incluísse um menu de navegação lateral, e uma grade contendo diversos vídeos para visualização, semelhante ao molde disponibilizado como referência no FIGMA.
 
 O projeto em questão trata-se de uma atividade prática proposta pela trilha CSS da DIO, com intuito de desenvolver algumas habilidades CSS com uso das propriedades **GRID-LAYOUT**, como:
@@ -49,5 +50,3 @@ Contribuições são bem-vindas. Para contribuir:
 ## Licença
 
 Este projeto está licenciado sob a licença MIT.
-
-

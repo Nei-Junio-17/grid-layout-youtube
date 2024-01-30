@@ -1,2 +1,3 @@
 *.css linguist-detectable=true
-*.html linguist-detectable=true
+
+* css/style.css linguist-documentation=true

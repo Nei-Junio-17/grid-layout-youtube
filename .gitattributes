@@ -1,2 +1,4 @@
 *.css linguist-detectable=true
 *.html linguist-detectable=true
+
+* assets\css\style.css linguist-vendored
